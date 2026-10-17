@@ -8,7 +8,8 @@ Instalar dependencias por medio de pip install
 - configparser==6.0.0
 Instalas allure mediante npm o gestor de paquetes
 - npm install allure
-Para ejecutar mediante linea de comando
+
+## Para ejecutar mediante linea de comando
 
 python run_tests.py --env qa --headed --allure
 
