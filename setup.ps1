@@ -1,4 +1,4 @@
-# AutoZone Playwright BDD — Script de instalacion para Windows
+# Playwright BDD — Script de instalacion para Windows
 # Ejecutar en PowerShell como Administrador (solo la primera vez para instalar Allure)
 #
 # Uso:
@@ -18,7 +18,7 @@ function Write-Warn    { param($msg) Write-Host "  [!!] $msg" -ForegroundColor Y
 function Write-Fail    { param($msg) Write-Host "  [XX] $msg" -ForegroundColor Red }
 
 Write-Host "==========================================================" -ForegroundColor Cyan
-Write-Host "  AutoZone Playwright BDD - Instalacion de Dependencias" -ForegroundColor Cyan
+Write-Host "  Playwright BDD - Instalacion de Dependencias" -ForegroundColor Cyan
 Write-Host "  (Windows / PowerShell)" -ForegroundColor Cyan
 Write-Host "==========================================================" -ForegroundColor Cyan
 
